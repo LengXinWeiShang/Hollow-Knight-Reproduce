@@ -1,0 +1,2741 @@
+fileFormatVersion: 2
+guid: 357052a60fb113d43b1ed42d571b8e5d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tribal UI Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 774
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ed7d4f21a272d4c93daaf2866b555c
+      internalID: -416704074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 758
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adfb0dfc13feca44b0b25fc33d08fef
+      internalID: 1586248021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 696
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974015dfc0213124caa4dc784e9c1d28
+      internalID: -158046719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 663
+        width: 53
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07abf391a1ccd4f4cbf642098c1a8919
+      internalID: -452302258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 742
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaafd0f8b4bde4848855529567509313
+      internalID: 343382731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 726
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7276a77b835434da2077b8d5177b46
+      internalID: -2001381099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 696
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d0f358ddb0dfb4e904202b3d164763
+      internalID: 1773884291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 662
+        width: 94
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6412f04f6b9d9ce46a82a52118589461
+      internalID: -1697977113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 710
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e5422f49557ba45979306cf24f5c3b
+      internalID: -2068602011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 710
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fdd557523af4944a1257004c5f9342
+      internalID: 1466466017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 631
+        width: 56
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b406c22a0ada24cae677a436475de6
+      internalID: -357543441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 694
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18809f849ad0ed140bba3b88fd0f0a2d
+      internalID: 1803984203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 631
+        width: 104
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd710b717f46a434fbfcc2c6872dd612
+      internalID: -1305587817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 666
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea346d22d66d6f41ac079ec221234ec
+      internalID: 1221012749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 678
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c95fc19534eeb64bb0aa835d721d2a4
+      internalID: -2111126156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 559
+        width: 11
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca14c4e64db84ff49abe872a853246d2
+      internalID: -1128339019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 609
+        width: 148
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7a6761fb1520f4ca5e061dffd6a982
+      internalID: -1515619925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 662
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef085c91955d4e43a0e6ede47186e64
+      internalID: 857107927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 631
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28628902dea5b748b15027d02663729
+      internalID: -1421148996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 639
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ef872eb1fa83e4e8ffe7d7b03615f6
+      internalID: 1222148162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 594
+        width: 146
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd2581ed3e47b342a6f131b06ff8960
+      internalID: 2143673357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 609
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d204e3980cba540a9ae0858972b89c
+      internalID: 259922066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 595
+        width: 148
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a36f782f44c3649b1aa15913cef374
+      internalID: -1667720586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 640
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c95d8319f3bee46a2844af68c490b5
+      internalID: -903312502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 623
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9664bea422675b4090dd1cb02bfb3aa
+      internalID: -68050493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 617
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74219ad3860da243bc62b92a7f8d9e1
+      internalID: -113588649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 562
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5200e14f61a656848aeef55c879f829f
+      internalID: -535053761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 593
+        width: 106
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336cf96803538f345bd60fb0fe4d8a7c
+      internalID: 1880965273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 593
+        width: 106
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26787a206aa8cbe45946b3cd4d20c658
+      internalID: -425316175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 478
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474f3f89104a5194e88cfff064516667
+      internalID: 446860325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 546
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0450ce61cf13b24448dbc6aca8a668de
+      internalID: 1305504738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 497
+        width: 144
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c81dc4046c9ba2479953a4e44336b00
+      internalID: 952501062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 573
+        width: 192
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c252fb3d9d3dda40a557b74db4994f5
+      internalID: -817526323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 574
+        width: 104
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48fa37b28add104e8711b6c55f58408
+      internalID: 333349373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 574
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5686a8e4859f24b8eab6b3587edd82
+      internalID: 1312953224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 574
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3db48eb18f043479ff4bd77eee389c
+      internalID: 715929431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 579
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61852ba34e063a245af7646a09d99a99
+      internalID: 1926199355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 595
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d526c532ac76de4bbed094b2d9fba9d
+      internalID: -883994041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 597
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e0f11071ef3fc4684d33d87a18c5ab
+      internalID: -863242233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 574
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4e21c53c6971e45a599b000f394eac
+      internalID: -431424958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 577
+        width: 622
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f7290e86b90074f998aa1688d959a2
+      internalID: -246506139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 552
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa692ad0d68ae249aa501263af47c4d
+      internalID: -1082840189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 481
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c3c9d3e2738f240b2a2490f383d3df
+      internalID: -1849119836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 574
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da88734fc8ea2f48a44a2d9b0097e6d
+      internalID: -1528642031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 574
+        width: 69
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25e55621172fb64fbb60dd75d43bbd2
+      internalID: 422903076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 516
+        width: 164
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054ff451bcc738c409b02cac75e7fbba
+      internalID: -854538988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 562
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a0b1b9359d28a42a5d5b310b065c3b
+      internalID: -867926349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 504
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe13d085704d5d24ab5e4a493096b00f
+      internalID: 1115996181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 622
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0553d63a1812785439cf4420f63958a5
+      internalID: -11998311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 540
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051e9f988e907bd41bea47f4a3662d7a
+      internalID: 1426379695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 538
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38d53efaa1963d40bbf03c96b1a7da3
+      internalID: 710503582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 463
+        width: 146
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a86954da50d25b4781be8d031c0d9d7
+      internalID: 2045421730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 516
+        width: 192
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fbd8d6530a2804a89ee1c2310fca8f
+      internalID: 1998613337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 516
+        width: 192
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f920986517b0e4c95288bff4bd6630
+      internalID: 1943891546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 504
+        width: 192
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd6756eae6ac664aaff3478c258f579
+      internalID: -16189947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 559
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709b2901712b69d4dadf1406cacb9ca3
+      internalID: -839130863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 534
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edef733ea253b54b8b4604030e00283
+      internalID: -1097623125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 546
+        width: 64
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51faa85808ad5840848ec6c03c53e6f
+      internalID: -1335490060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 497
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c717bd17e5add74fb107fcdc78a9ca2
+      internalID: -1113331797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 504
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee7f0c519379eb4691f42a27137f19c
+      internalID: -130644423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 506
+        width: 161
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132959f7183823944be599fbef5977f3
+      internalID: -277039770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 481
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba85f04aa24cf5a4eab61e8d03d6295a
+      internalID: 626220563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 488
+        width: 550
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ba9864d962dcf46b9d5ed87e96d2d5
+      internalID: -2132024175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 318
+        width: 173
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd491a90189448d4baa0f037ce7a9446
+      internalID: -631432479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 318
+        width: 149
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6819695c74cde14e9fe0cc653db2406
+      internalID: 1390814989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 370
+        width: 171
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a623451d4d1434e803445c8e823252
+      internalID: -1850896559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 463
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b24fd00441b95c4cac1d8091a6cf14d
+      internalID: -1986376607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 463
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764d774a63bf76c4d89a0e14cc81bb61
+      internalID: -983978472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 453
+        width: 498
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd821490d3de8f42abbc4bc4fbd286a
+      internalID: 1029006703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 446
+        width: 192
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f63014fbb392b4e91116206438c626
+      internalID: -1226563738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 446
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aeb442cd291d704186a3c82c9493d56
+      internalID: -503471207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 439
+        width: 13
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91525e9490967ad42a472f46de8c0641
+      internalID: -356401397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 370
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e807bb6574a2e4fad4d8a15c627acf
+      internalID: 1754677564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 320
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0d5ce59e7cf634bb0ae979ee1b4307
+      internalID: -947127604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 399
+        width: 94
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1eb5f7ee8183d4bb4caebd150063f3
+      internalID: -51361616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 399
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2304a0123f7d54485e629e3607766c
+      internalID: 1400229343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 399
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929376efe9a85984dab6ad5521657e68
+      internalID: 1056031016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 433
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5d9227f8008b84b909b98bbcfad0a4
+      internalID: 833999018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 433
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f2574a3936a08439576773ea8d4bde
+      internalID: 407395097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 320
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d659b5d676752d41bbd67ea83fc8af7
+      internalID: 114412899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 320
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 16, z: 16, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59900b0b90eea1b4db2918afb5f77c6a
+      internalID: -235399142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 280
+        width: 213
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef5d5cf5d961754da5575e4d7f3ac9a
+      internalID: -1822307265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 439
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef37bc81f8f638144904abbebb10eb72
+      internalID: -655833994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 399
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f170c222d16f71e41b7341a298cd6cc1
+      internalID: -396307630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 403
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f02ccb46a0b3f8498c951a538b5d257
+      internalID: 1598427360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 320
+        width: 231
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67909a65832815b42b70406dae2f43dc
+      internalID: -1110649754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 392
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c1e922792c89647a41607d6e6f0dcf
+      internalID: -1693584864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 275
+        height: 383
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e79b1db2e53d664bb76864ae42eb093
+      internalID: 643487055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 318
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbbcde8940b70c4bad14bad07d5febe
+      internalID: -1621129051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 376
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec35234e1a62c514da9116f90a06b286
+      internalID: 1671382958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_90
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 318
+        width: 192
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e4be1c27b31b940ac17cf04a80126c
+      internalID: 2043992048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_91
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 318
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16fcf586766850409fb8c66df658652
+      internalID: -661514166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_92
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 98
+        width: 209
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122dcb8805ccd9740aff5f74192d788b
+      internalID: -1812956620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_93
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 360
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d66d889b0b097f4db67abd905a3aa3d
+      internalID: -428527822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_94
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 344
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d81fd9fc67e334fb51558c7590eb81
+      internalID: 1698116536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_95
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 328
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd08384f8ae5c94898c2003c0048760
+      internalID: 1279615333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_96
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 262
+        width: 622
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64b9301f9b798c489635a65df71a265
+      internalID: -1219812103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_97
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 257
+        width: 667
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374adbdac33ebf746ae8bdf9a1e0547f
+      internalID: 1739069231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_98
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 312
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27cd4f5c72252c4c8126f9d8dc76793
+      internalID: 2053425540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_99
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 296
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fa704c856ed2241b62c5bafe2af8ad
+      internalID: 2141581419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_100
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 280
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d88591e41b8e024da2cc046d7a49eed
+      internalID: 865353409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_101
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 153
+        width: 638
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3485fe9dedbbc740b5b0f625204d8c3
+      internalID: 834079073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_102
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 257
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9b360e38f123f4394ff9cbf795d19c
+      internalID: -1805953397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_103
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 0
+        width: 213
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d05813eb007f484eac29bdb9cecb254
+      internalID: -280129037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_104
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 245
+        width: 329
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184723ef94ee95745be96499ecd506d8
+      internalID: -1154729597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_105
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c620479edfe1f4ca80655c5e5e476c
+      internalID: -2048874658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_106
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 204
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05737da363012ed44a0c7f8cb23f327a
+      internalID: 1005510889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_107
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 204
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3770e9e403e324bbee3a7da1ade7c9
+      internalID: 61580190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_108
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 234
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca514b5d3466eb54c951e06ae41cf2f9
+      internalID: 380301037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_109
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 204
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa5cfacde72fb24e8dace3c94cb59ac
+      internalID: -2127694757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_110
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 223
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fdb2f623dc2064f9eb23f25c93d9f6
+      internalID: -1287690431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_111
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 98
+        width: 145
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f657ca824664804db0e6ec21bce9fe0
+      internalID: -2114378349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_112
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 205
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc8d6ee434e9324d82ec950d1f30bf7
+      internalID: 678832013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_113
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 205
+        width: 69
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5a154ac8e76954cb8146fabe6d51c3
+      internalID: -502940862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_114
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 204
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608978ee13aa7374bb014a7709ef88d3
+      internalID: 764463160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_115
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 0
+        width: 586
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ea4e007e7331846a49c01e7e763df8
+      internalID: -2002544161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_116
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 98
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3522b27ca046e7342ad3abb3acc54bc6
+      internalID: -1557748939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_117
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 98
+        width: 284
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ca49204f6a7584ebd8666ce2d99e5e
+      internalID: -437606739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tribal UI Atlas_118
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 0
+        width: 701
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92de4e95ac0666428b7c6d3f8bbfdbe
+      internalID: -18289340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tribal UI Atlas_55: -839130863
+      Tribal UI Atlas_34: 1312953224
+      Tribal UI Atlas_38: -863242233
+      Tribal UI Atlas_102: -1805953397
+      Tribal UI Atlas_73: -947127604
+      Tribal UI Atlas_18: -1421148996
+      Tribal UI Atlas_95: 1279615333
+      Tribal UI Atlas_85: -1110649754
+      Tribal UI Atlas_83: -396307630
+      Tribal UI Atlas_98: 2053425540
+      Tribal UI Atlas_112: 678832013
+      Tribal UI Atlas_118: -18289340
+      Tribal UI Atlas_24: -68050493
+      Tribal UI Atlas_92: -1812956620
+      Tribal UI Atlas_27: 1880965273
+      Tribal UI Atlas_10: -357543441
+      Tribal UI Atlas_81: -1822307265
+      Tribal UI Atlas_47: 1115996181
+      Tribal UI Atlas_67: -983978472
+      Tribal UI Atlas_58: -1113331797
+      Tribal UI Atlas_33: 333349373
+      Tribal UI Atlas_59: -130644423
+      Tribal UI Atlas_74: -51361616
+      Tribal UI Atlas_25: -113588649
+      Tribal UI Atlas_3: -452302258
+      Tribal UI Atlas_16: -1515619925
+      Tribal UI Atlas_64: 1390814989
+      Tribal UI Atlas_115: -2002544161
+      Tribal UI Atlas_89: 1671382958
+      Tribal UI Atlas_91: -661514166
+      Tribal UI Atlas_71: -356401397
+      Tribal UI Atlas_101: 834079073
+      Tribal UI Atlas_56: -1097623125
+      Tribal UI Atlas_100: 865353409
+      Tribal UI Atlas_93: -428527822
+      Tribal UI Atlas_66: -1986376607
+      Tribal UI Atlas_9: 1466466017
+      Tribal UI Atlas_69: -1226563738
+      Tribal UI Atlas_28: -425316175
+      Tribal UI Atlas_45: -854538988
+      Tribal UI Atlas_32: -817526323
+      Tribal UI Atlas_75: 1400229343
+      Tribal UI Atlas_86: -1693584864
+      Tribal UI Atlas_60: -277039770
+      Tribal UI Atlas_68: 1029006703
+      Tribal UI Atlas_88: -1621129051
+      Tribal UI Atlas_4: 343382731
+      Tribal UI Atlas_14: -2111126156
+      Tribal UI Atlas_105: -2048874658
+      Tribal UI Atlas_70: -503471207
+      Tribal UI Atlas_37: -883994041
+      Tribal UI Atlas_117: -437606739
+      Tribal UI Atlas_46: -867926349
+      Tribal UI Atlas_116: -1557748939
+      Tribal UI Atlas_40: -246506139
+      Tribal UI Atlas_65: -1850896559
+      Tribal UI Atlas_20: 2143673357
+      Tribal UI Atlas_62: -2132024175
+      Tribal UI Atlas_49: 1426379695
+      Tribal UI Atlas_111: -2114378349
+      Tribal UI Atlas_96: -1219812103
+      Tribal UI Atlas_94: 1698116536
+      Tribal UI Atlas_48: -11998311
+      Tribal UI Atlas_36: 1926199355
+      Tribal UI Atlas_0: -416704074
+      Tribal UI Atlas_44: 422903076
+      Tribal UI Atlas_8: -2068602011
+      Tribal UI Atlas_97: 1739069231
+      Tribal UI Atlas_12: -1305587817
+      Tribal UI Atlas_26: -535053761
+      Tribal UI Atlas_23: -903312502
+      Tribal UI Atlas_6: 1773884291
+      Tribal UI Atlas_78: 407395097
+      Tribal UI Atlas_57: -1335490060
+      Tribal UI Atlas_106: 1005510889
+      Tribal UI Atlas_30: 1305504738
+      Tribal UI Atlas_72: 1754677564
+      Tribal UI Atlas_15: -1128339019
+      Tribal UI Atlas_114: 764463160
+      Tribal UI Atlas_41: -1082840189
+      Tribal UI Atlas_29: 446860325
+      Tribal UI Atlas_80: -235399142
+      Tribal UI Atlas_82: -655833994
+      Tribal UI Atlas_31: 952501062
+      Tribal UI Atlas_99: 2141581419
+      Tribal UI Atlas_2: -158046719
+      Tribal UI Atlas_42: -1849119836
+      Tribal UI Atlas_109: -2127694757
+      Tribal UI Atlas_22: -1667720586
+      Tribal UI Atlas_77: 833999018
+      Tribal UI Atlas_52: 1998613337
+      Tribal UI Atlas_107: 61580190
+      Tribal UI Atlas_108: 380301037
+      Tribal UI Atlas_84: 1598427360
+      Tribal UI Atlas_21: 259922066
+      Tribal UI Atlas_113: -502940862
+      Tribal UI Atlas_63: -631432479
+      Tribal UI Atlas_1: 1586248021
+      Tribal UI Atlas_35: 715929431
+      Tribal UI Atlas_87: 643487055
+      Tribal UI Atlas_53: 1943891546
+      Tribal UI Atlas_104: -1154729597
+      Tribal UI Atlas_50: 710503582
+      Tribal UI Atlas_5: -2001381099
+      Tribal UI Atlas_11: 1803984203
+      Tribal UI Atlas_7: -1697977113
+      Tribal UI Atlas_13: 1221012749
+      Tribal UI Atlas_110: -1287690431
+      Tribal UI Atlas_19: 1222148162
+      Tribal UI Atlas_90: 2043992048
+      Tribal UI Atlas_76: 1056031016
+      Tribal UI Atlas_17: 857107927
+      Tribal UI Atlas_79: 114412899
+      Tribal UI Atlas_39: -431424958
+      Tribal UI Atlas_43: -1528642031
+      Tribal UI Atlas_103: -280129037
+      Tribal UI Atlas_51: 2045421730
+      Tribal UI Atlas_61: 626220563
+      Tribal UI Atlas_54: -16189947
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
